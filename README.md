@@ -1,4 +1,4 @@
-# Jarvis - Voice-Activated Virtual Assistant
+# Jarvis: Voice-Activated Virtual Assistant
 
 "Jarvis" is a voice-activated virtual assistant inspired by Alexa and Google Assistant. This assistant leverages speech recognition and natural language processing to perform a variety of tasks, including opening websites, playing songs, providing news updates, and answering questions using OpenAI's language model.
 
